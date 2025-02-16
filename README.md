@@ -1,1 +1,3 @@
-https://github.com/vbking2014/my-portfolio.git
+#My Portfolio
+
+https://vbking2014.github.io/my-portfolio/
